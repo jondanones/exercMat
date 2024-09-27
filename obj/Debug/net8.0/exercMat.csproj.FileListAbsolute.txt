@@ -1,0 +1,14 @@
+C:\Users\LOGICA\source\repos\exercMat\bin\Debug\net8.0\exercMat.exe
+C:\Users\LOGICA\source\repos\exercMat\bin\Debug\net8.0\exercMat.deps.json
+C:\Users\LOGICA\source\repos\exercMat\bin\Debug\net8.0\exercMat.runtimeconfig.json
+C:\Users\LOGICA\source\repos\exercMat\bin\Debug\net8.0\exercMat.dll
+C:\Users\LOGICA\source\repos\exercMat\bin\Debug\net8.0\exercMat.pdb
+C:\Users\LOGICA\source\repos\exercMat\obj\Debug\net8.0\exercMat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LOGICA\source\repos\exercMat\obj\Debug\net8.0\exercMat.AssemblyInfoInputs.cache
+C:\Users\LOGICA\source\repos\exercMat\obj\Debug\net8.0\exercMat.AssemblyInfo.cs
+C:\Users\LOGICA\source\repos\exercMat\obj\Debug\net8.0\exercMat.csproj.CoreCompileInputs.cache
+C:\Users\LOGICA\source\repos\exercMat\obj\Debug\net8.0\exercMat.dll
+C:\Users\LOGICA\source\repos\exercMat\obj\Debug\net8.0\refint\exercMat.dll
+C:\Users\LOGICA\source\repos\exercMat\obj\Debug\net8.0\exercMat.pdb
+C:\Users\LOGICA\source\repos\exercMat\obj\Debug\net8.0\exercMat.genruntimeconfig.cache
+C:\Users\LOGICA\source\repos\exercMat\obj\Debug\net8.0\ref\exercMat.dll
